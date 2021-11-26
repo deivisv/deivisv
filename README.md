@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Deivis Valdes 👨‍💻</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?  color=%23FF7B10&width=550&lines=Hi%2C+I+am+a+Full+Stack+Web+Developer+in+training.;Always+learning+new+things.;Passionate+about+technology.)](https://git.io/typing-svg)"
+    <img src="https://readme-typing-svg.herokuapp.com?  color=%23FF7B10&width=550&lines=Hi%2C+I+am+a+Full+Stack+Web+Developer+in+training.;Always+learning+new+things.;Passionate+about+technology"
 </p>
 
 let myArray = {
